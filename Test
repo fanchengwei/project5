@@ -1,0 +1,6 @@
+public final class test {
+    public static void main(String[] args){
+        String x = "Hello Guys";
+        System.out.println(x);
+    }
+}
